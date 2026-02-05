@@ -43,10 +43,12 @@ a, strong{
     text-decoration: none;
 }
 body{
-  /* background-image: ; */
   height: 100vh;
+  background-image: url(../images/header-bg-img.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .containers{
     max-width: 1150px;
     margin: 0 auto;
-}
+  }
