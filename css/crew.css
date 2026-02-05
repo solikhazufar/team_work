@@ -43,8 +43,11 @@ a, strong{
     text-decoration: none;
 }
 body{
-  /* background-image: ; */
-  height: 100vh;
+  background-image: url(../images/svg/crew-img.svg);
+  background-repeat: no-repeat;
+  background-position: cover;
+  background-size: cover;
+  background-color: black;
 }
 .containers{
     max-width: 1150px;
