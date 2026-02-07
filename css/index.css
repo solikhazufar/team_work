@@ -52,3 +52,28 @@ body{
     max-width: 1150px;
     margin: 0 auto;
   }
+.header-wrapper{
+  width: 830px;
+  height: 66px;
+  backdrop-filter: blur(81.54845428466797px)
+}
+main{
+  color: white;
+}
+.section-titles{
+    border-bottom: solid 2px wheat;
+  }
+.section-hero-wrapper{
+  width: 379px;
+  height: 34px;
+}
+.section-hero-title{
+  font-size: 150px;
+  width: 445px;
+  height: 172px;
+}
+.section-hero-texts{
+  width: 442px;
+  height: 128px;
+  padding-top: 24px;
+}
